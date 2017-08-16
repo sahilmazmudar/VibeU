@@ -4,6 +4,7 @@ package com.example.sahil.vibespot;
         import android.content.Intent;
         import android.os.Bundle;
         import android.util.Log;
+        import com.spotify.sdk.android.player.Player;
 
         import com.spotify.sdk.android.authentication.AuthenticationClient;
         import com.spotify.sdk.android.authentication.AuthenticationRequest;
